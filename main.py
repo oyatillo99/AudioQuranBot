@@ -26,7 +26,7 @@ from bismillahbot import Quran, make_index
 from secret import token
 
 
-bot = Bot(api_token=token, json_serialize=json.dumps, json_deserialize=json.loads)
+bot = Bot(api_token=832354568:AAF-0KaBTXkrQF7eY18Bk5_jOTxK8usfpDk, json_serialize=json.dumps, json_deserialize=json.loads)
 quran_index = make_index()
 redis = None
 redis_namespace = "aqb:"
